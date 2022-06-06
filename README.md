@@ -1,1 +1,1 @@
-# My person tips for CTF
+# My personal tips for CTF
